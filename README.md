@@ -4,7 +4,7 @@ This repository hosts an **Auto Data Analyst Agent** application that allows you
 
 ## Demo Video
 
-For a quick demonstration of the DocuBot in action, check out the video below:
+For a quick demonstration of the Auto Data Analyst Agent in action, check out the video below:
 https://youtu.be/z_mYC32XfxI
 Streamlit App Link: https://auto-data-analyst-dco49mq5fwguhcydnnfvbh.streamlit.app/
 
