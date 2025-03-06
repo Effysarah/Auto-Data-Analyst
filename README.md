@@ -2,8 +2,11 @@
 
 This repository hosts an **Auto Data Analyst Agent** application that allows you to analyze your data (CSV or Excel files) using natural language queries. The agent translates your queries into SQL, executes them against your uploaded dataset, and returns the results—all without requiring you to know SQL.
 
-check out the demo app here >> https://youtu.be/z_mYC32XfxI
-Streamlit App for Testing: https://auto-data-analyst-dco49mq5fwguhcydnnfvbh.streamlit.app/
+## Demo Video
+
+For a quick demonstration of the DocuBot in action, check out the video below:
+https://youtu.be/z_mYC32XfxI
+Streamlit App Link: https://auto-data-analyst-dco49mq5fwguhcydnnfvbh.streamlit.app/
 
 ## Key Features
 
