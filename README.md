@@ -2,6 +2,8 @@
 
 This repository hosts an **Auto Data Analyst Agent** application that allows you to analyze your data (CSV or Excel files) using natural language queries. The agent translates your queries into SQL, executes them against your uploaded dataset, and returns the results—all without requiring you to know SQL.
 
+check out the demo app here >> https://youtu.be/z_mYC32XfxI
+
 ## Key Features
 
 - **File Upload:** Upload CSV or Excel files (up to 200MB).  
